@@ -1,4 +1,3 @@
-=======
 
 # 🥗 Fitness Diet App
 
@@ -77,5 +76,3 @@ This project was built after referring to various YouTube tutorials as learning 
 ## 🙌 Acknowledgements
 
 - Thanks to the creators of the tutorials that helped me learn the basics of Flutter.
-
-> > > > > > > 44e00038b23fc4c819b2589de55edb6c362d2158
